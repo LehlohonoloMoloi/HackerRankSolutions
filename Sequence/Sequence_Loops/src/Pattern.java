@@ -1,9 +1,21 @@
+import java.util.Scanner;
+
 public class Pattern {
     public static void main(String[] args)
     {
-        int a = 0;
-        int b = 2;
-        int n = 10;
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter input for letter A: ");
+        int a = input.nextInt();
+        input.nextLine();
+
+        System.out.print("Enter input for letter B: ");
+        int b = input.nextInt();
+        input.nextLine();
+
+        System.out.print("Enter input for letter N:");
+        int n = input.nextInt();
+        input.nextLine();
 
         int term = 0;
         int change = 0;
