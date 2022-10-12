@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1dab083-0bf5-4705-85bc-ab47e8e355e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Description" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MinMaxSum/MinMaxSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MinMaxSum/MinMaxSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MinMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MinMaxSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Solution.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
